@@ -8,7 +8,7 @@
 Contributors: \
 [김택현](https://github.com/dobbytk) \
 [김예찬](https://github.com/pterons) \
-[유현승](https://github.com/hyunicecream) 
-[위수민]
-[정의한]
+[유현승](https://github.com/hyunicecream) \
+[위수민] \
+[정의한] \
 [이진수]
